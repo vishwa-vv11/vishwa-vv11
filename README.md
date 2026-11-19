@@ -1,4 +1,4 @@
-# Hi, I'm Vishwa 👋
+# Hi, I'm Vishwa 
 
 ### AI Engineer | Generative AI | Machine Learning | Agentic AI
 
@@ -134,8 +134,8 @@ A modular NLP workbench designed to explore Natural Language Processing concepts
 
 I'm always interested in connecting with people working on AI, Machine Learning, and Generative AI.
 
-- 💼 **LinkedIn:** [Vishwa](https://www.linkedin.com/in/vishvv111/)
-- 💻 **GitHub:** [vishwa-vv11](https://github.com/vishwa-vv11)
+-  **LinkedIn:** [Vishwa](https://www.linkedin.com/in/vishvv111/)
+-  **Gmail:** (vishwarathinavel3126@gmail.com)
 
 ---
 
